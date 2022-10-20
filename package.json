@@ -2,13 +2,21 @@
   "name": "mercadoliebre",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElenaRamos98/MercadoLiebre.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElenaRamos98/MercadoLiebre/issues"
+  },
+  "homepage": "https://github.com/ElenaRamos98/MercadoLiebre#readme",
   "dependencies": {
     "express": "^4.18.2"
   }
